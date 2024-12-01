@@ -1,7 +1,3 @@
-## Hi there 👋
-
----
-
 # 👋 Hello, I'm Amitendu  
 
 **BCA Student | Developer | Tech Enthusiast**  
