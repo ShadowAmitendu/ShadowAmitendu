@@ -1,5 +1,8 @@
 # 👋 Hello, I'm Amitendu  
 
+![Frame 1](https://github.com/user-attachments/assets/63bf20ec-4bee-4717-8fcc-80c2eb3a5572)
+
+
 **BCA Student | Developer | Tech Enthusiast**  
 📍 **India**  
 
